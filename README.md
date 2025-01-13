@@ -1,13 +1,13 @@
-Saiteja Kunchakuri's Portfolio
+Sreeja Reddy's Portfolio
 
 Contact Information
 
-Email: kunchakurisaiteja9@gmail.com
+Email: sreejareddy522@gmail.com
 
-Phone: +1 (816) 409-6205
+Phone: +1 (816) 879-4453
 
 
-LinkedIn: [Saiteja Kunchakuri](https://kunchakurisaiteja9.github.io/portfolio/)
+LinkedIn: [Sreeja Reddy Kadathala](www.linkedin.com/in/sreeja-reddy-kadathala-41b711199)
 
 Professional Summary
 
@@ -15,8 +15,8 @@ I'm a passionate software engineer dedicated to crafting innovative solutions an
 
 Let's Connect!
 
-Feel free to reach out for a chat about tech, food, travel, or anything under the sun! Connect with me on [LinkedIn](https://www.linkedin.com/in/saiteja-kunchakuri-6a29402aa/) or drop me an email at kunchakurisaiteja9@gmail.com.
+Feel free to reach out for a chat about tech, food, travel, or anything under the sun! Connect with me on [LinkedIn](www.linkedin.com/in/sreeja-reddy-kadathala-41b711199) or drop me an email at sreejareddy522@gmail.com.
 
-You can also explore more about me on my website: [saitejakunchakuri](https://kunchakurisaiteja9.github.io/portfolio/)
+You can also explore more about me on my website: [SreejaReddy](https://kunchakurisaiteja9.github.io/portfolio/)
 
 Thank you for stopping by and getting to know a bit about me beyond the professional realm!
